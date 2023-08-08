@@ -1,12 +1,29 @@
 *{
 font-family: Arial, Helvetica, sans-serif;
-font-size: 16px;
+font-size: 20px;
 }
 
 body {
-    background-color: burlywood;
-    width: 500px;
+    background-color: whitesmoke;
+    width: 700px;
     margin: auto;
-    padding: 10px;
-    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.402)
+    padding: 30px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4)
 }
+
+img.lado {
+    float: right;
+}
+
+h1 {
+    font-size: 1.5cm;
+    color:blue;
+    box-shadow: 3px 3px 5px rgb(red, green, blue);
+}
+
+a {
+    text-decoration: underline;
+    font-weight: bold;
+    color: brown;
+}
+
